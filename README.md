@@ -9,4 +9,6 @@ The aim of this project is to develop an open source (and free as in free beer) 
 - It is easy to use & deploy
 - It is fun for the developers, challenging and pushing the boundaries of what has been done so far.
 
+Join our Slack channel for exciting news, features, and open tasks: https://join.slack.com/t/opensourcevac-qpn1735/shared_invite/zt-krrneyw1-TRBIxGz_YYMWqUDMi7UqiA
+
 For all the contributors, I dare to say that it is in the spirit of all of us today to make an active contribution to the current world situation and you have taken a step by contributing with your expertise towards this. You are part of the few who dare to make an improvement with the help of technology for the greater good of the society.
